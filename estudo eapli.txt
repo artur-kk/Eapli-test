@@ -1,2 +1,4 @@
-Controlo de versões
+Controlo de versï¿½es
 Git
++1 linha
++2 linhas
