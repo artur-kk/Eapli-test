@@ -1,4 +1,2 @@
 Controlo de vers�es
 Git
-+1 linha
-+2 linhas
