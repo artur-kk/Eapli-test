@@ -13,7 +13,6 @@ import javax.swing.JOptionPane;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Teste *-*");
-        JOptionPane.showMessageDialog(null, "Já foste");
-        
+        JOptionPane.showConfirmDialog(null, "Foi encontrado um erro na sua construção,\nvocê é gay!!!!!!!!!!", "ERRO::ÉS GAY", JOptionPane.OK_CANCEL_OPTION, JOptionPane.ERROR_MESSAGE);    
     }
 }
